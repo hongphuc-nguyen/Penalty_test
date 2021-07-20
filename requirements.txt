@@ -133,3 +133,4 @@ zict==2.0.0
 zope.event==4.5.0
 openpyxl==3.0.7
 Tk
+tkinter
